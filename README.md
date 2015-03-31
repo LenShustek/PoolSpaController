@@ -23,4 +23,4 @@ The controller contains the following components:
  - a Chronodot battery backed-up realtime clock with a Maxim DS1307 clock chip
  - ten optically-isolated relays for controlling pumps, heater, valves, and lights
 
-For some photos and the schematic of the controller see the "issues" for this project.
+The images in this directory are the schematic and photos of the controller.
