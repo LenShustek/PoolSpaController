@@ -74,6 +74,10 @@
 #define TEMPCTL_GREEN_LED    0x0200
 #define TEMPCTL_BLUE_LED     0x0400
 
+// Test pins
+
+#define TESTPIN 14
+
 // modes
 // (need to be in a .h file because of an Arduino IDE compiler bug)
 
@@ -130,7 +134,3 @@ enum pump_status_t { // current pump status: "pump_status"
 #define SPA_JETS_TIMEOUT 1*60    // minutes before spa aerator turns off
 
 #define DEBOUNCE_DELAY 50        // milliseconds for debounce delay
-
-
-
-
